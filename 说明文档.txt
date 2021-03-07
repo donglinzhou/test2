@@ -1,0 +1,4 @@
+begin_time:2021/3/7
+place:shantou university
+CS_item:运动会管理系统
+author:Donglin Zhou,zhengting Zou,zhihong zhang,yangxin zheng
